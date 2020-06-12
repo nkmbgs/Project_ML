@@ -1,1 +1,1 @@
-# Basic RNN_model to generate names after a starting chars are provided.
+# Basic RNN_model to generate names after some starting chars are provided.
